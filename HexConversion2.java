@@ -10,8 +10,6 @@
  */
 
 
-package hw9;
-
 import java.util.Scanner;
 
 public class HexConversion2 {
