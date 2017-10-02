@@ -9,7 +9,6 @@
  */
 
 
-package hw8;
 
 import java.util.Scanner;
 
